@@ -1,0 +1,10 @@
+{
+  "__resolveType": "site/apps/deco/nuvemshop.ts",
+  "accessToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "encrypted": "667ee7f2e0c82fcfda4e67d9efe7005f1e234f8919f758d27b3d4d138bee0447ca23f45c989da6017187c92cddfb49b6"
+  },
+  "platform": "nuvemshop",
+  "publicUrl": "https://abaleia.lojavirtualnuvem.com.br/",
+  "storeId": "5024387"
+}

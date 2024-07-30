@@ -7,8 +7,8 @@ import * as $$$$$$$$$1 from "./actions/wishlist/submit.ts";
 import * as $$$$$$$$$$$0 from "./apps/deco/analytics.ts";
 import * as $$$$$$$$$$$1 from "./apps/deco/crux.ts";
 import * as $$$$$$$$$$$2 from "./apps/deco/htmx.ts";
-import * as $$$$$$$$$$$3 from "./apps/deco/records.ts";
-import * as $$$$$$$$$$$4 from "./apps/deco/shopify.ts";
+import * as $$$$$$$$$$$3 from "./apps/deco/nuvemshop.ts";
+import * as $$$$$$$$$$$4 from "./apps/deco/records.ts";
 import * as $$$$$$$$$$$5 from "./apps/site.ts";
 import * as $$$0 from "./loaders/availableIcons.ts";
 import * as $$$1 from "./loaders/icons.ts";
@@ -90,8 +90,8 @@ const manifest = {
     "site/apps/deco/analytics.ts": $$$$$$$$$$$0,
     "site/apps/deco/crux.ts": $$$$$$$$$$$1,
     "site/apps/deco/htmx.ts": $$$$$$$$$$$2,
-    "site/apps/deco/records.ts": $$$$$$$$$$$3,
-    "site/apps/deco/shopify.ts": $$$$$$$$$$$4,
+    "site/apps/deco/nuvemshop.ts": $$$$$$$$$$$3,
+    "site/apps/deco/records.ts": $$$$$$$$$$$4,
     "site/apps/site.ts": $$$$$$$$$$$5,
   },
   "name": "site",

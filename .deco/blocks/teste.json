@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelf.tsx",
+  "products": {
+    "__resolveType": "nuvemshop/loaders/productList.ts",
+    "sort": "user",
+    "term": "Bermuda",
+    "limit": 10
+  }
+}
