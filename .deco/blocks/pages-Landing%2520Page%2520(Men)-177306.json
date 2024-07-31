@@ -22,7 +22,7 @@
       "section": {
         "__resolveType": "site/sections/Product/SearchResult.tsx",
         "page": {
-          "__resolveType": "shopify/loaders/ProductListingPage.ts",
+          "__resolveType": "nuvemshop/loaders/productListingPage.ts",
           "count": 12,
           "query": "men"
         },
